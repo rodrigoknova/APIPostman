@@ -1,1 +1,1 @@
-# API com Postman usando como base localhost com suporte do ServeRest.
+# API com Postman usando localhost com suporte do ServeRest.
